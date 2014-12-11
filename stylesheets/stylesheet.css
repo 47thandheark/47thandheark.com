@@ -1,11 +1,11 @@
 
 .header {
-  background: black;
+  background: rgba(0,0,0,.5);
   padding: 20px;
 }
 
 .logo {
-  width: 200px;
+  width: 125px;
 }
 
 .stretch {
